@@ -49,7 +49,7 @@
                                 <li><a href="#">Modules</a>
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-3">
-                                            <li><a href="about-standard.html">Lead Management</a></li>
+                                            <li><a href="/module-lead-management/">Lead Management</a></li>
                                             <li><a href="about-creative.html">Proposals & Contract</a></li>
                                             <li><a href="features.html">Onboarding & Offboarding</a></li>
                                             <li><a href="service-standard.html">Availability Management</a></li>
