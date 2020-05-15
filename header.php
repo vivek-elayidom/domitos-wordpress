@@ -42,9 +42,9 @@
                         <!-- Nav Start-->
                         <div class="classynav">
                             <ul id="corenav">
-                                <li><a href="/testsite/">Home</a>
+                                <li><a href="/">Home</a>
                                 </li>
-                                <li><a href="/testsite/covid19-solution/">COVID-Management</a>
+                                <li><a href="/covid19-solution/">COVID-Management</a>
                                 </li>
                                 <li><a href="#">Modules</a>
                                     <div class="megamenu">
