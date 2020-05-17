@@ -29,9 +29,9 @@
                     <div class="footer-widget-area mb-70">
                         <h5 class="widget-title">Important Links</h5>
                         <ul>
-                            <li><a href="#" target="_blank">Terms &amp; Conditions</a></li>
-                            <li><a href="#" target="_blank">About Licences</a></li>
-                            <li><a href="#" target="_blank">Help &amp; Support</a></li>
+                            <li><a href="#" target="/">Home</a></li>
+                            <li><a href="#" target="/covid19-solution/">COVID Management</a></li>
+                            <li><a href="#" target="/contact/">Contact Us</a></li>
                             <li><a href="#" target="_blank">Careers</a></li>
                             <li><a href="#" target="_blank">Privacy Policy</a></li>
                             <li><a href="#" target="_blank">Community &amp; Forum</a></li>
@@ -41,26 +41,26 @@
                 <!-- Footer Widget Area-->
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
                     <div class="footer-widget-area mb-70">
-                        <h5 class="widget-title">Our Products</h5>
+                        <h5 class="widget-title">Key Modules</h5>
                         <ul>
-                            <li><a href="#" target="_blank">Apland Landing</a></li>
-                            <li><a href="#" target="_blank">Ecaps Admin</a></li>
-                            <li><a href="#" target="_blank">Bigshop Ecommerce</a></li>
-                            <li><a href="#" target="_blank">Classy Multipurpose</a></li>
-                            <li><a href="#" target="_blank">Educamp Education</a></li>
-                            <li><a href="#" target="_blank">Champ Portfolio</a></li>
+                            <li><a href="#" target="/module-lead-management/">CRM</a></li>
+                            <li><a href="#" target="/facility-overview/">Facility Overview</a></li>
+                            <li><a href="#" target="/client-portal/">Client Portal</a></li>
+                            <li><a href="#" target="/property-maintenance/">Property Maintenance</a></li>
+                            <li><a href="#" target="/tenant-management/">Tenant Management</a></li>
+                            <li><a href="#" target="/payment-collection/">Payment Collection</a></li>
                         </ul>
                     </div>
                 </div>
                 <!-- Footer Widget Area-->
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
                     <div class="footer-widget-area mb-70">
-                        <h5 class="widget-title">My Account</h5>
+                        <h5 class="widget-title">Resources</h5>
                         <ul>
-                            <li><a href="#" target="_blank">Community &amp; Forum</a></li>
-                            <li><a href="#" target="_blank">About Licences</a></li>
-                            <li><a href="#" target="_blank">Careers</a></li>
-                            <li><a href="#" target="_blank">Terms &amp; Conditions</a></li>
+                            <li><a href="#" target="_blank">Blog</a></li>
+                            <li><a href="#" target="_blank">About Domitos</a></li>
+                            <li><a href="#" target="_blank">About mDrift</a></li>
+                            <li><a href="#" target="_blank">Partner Resources</a></li>
                             <li><a href="#" target="_blank">Privacy Policy</a></li>
                             <li><a href="#" target="_blank">Help &amp; Support</a></li>
                         </ul>
@@ -91,8 +91,7 @@
                     <div class="language-dropdown text-center text-lg-right mt-4 mt-lg-0">
                         <div class="btn-group dropup">
                             <button class="btn saasbox-btn-2 dropdown-toggle text-white" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Language</button>
-                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-sa"></span>Arabic</a><a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-bd"></span>Bengali</a>
-                                <a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-us"></span>English</a><a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-my"></span>Malay</a>
+                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-sa"></span>Arabic</a><a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-bd">
                                 <a class="dropdown-item" href="#"><span class="mr-2 flag-icon flag-icon-es"></span>Spanish</a>
                             </div>
                         </div>
