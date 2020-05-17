@@ -51,41 +51,41 @@
                                     <div class="megamenu">
                                         <ul class="single-mega cn-col-3">
                                             <li><a href="/module-lead-management/">Lead Management</a></li>
-                                            <li><a href="about-creative.html">Proposals & Contract</a></li>
-                                            <li><a href="features.html">Onboarding & Offboarding</a></li>
-                                            <li><a href="service-standard.html">Availability Management</a></li>
-                                            <li><a href="service-creative.html">Facility Overview</a></li>
-                                            <li><a href="pricing-plan.html">ERP Integrations</a></li>
-                                            <li><a href="faq.html">Accounting</a></li>
+                                            <li><a href="/proposals-and-contract/">Proposals & Contract</a></li>
+                                            <li><a href="/onboarding-and-offboarding/">Onboarding & Offboarding</a></li>
+                                            <li><a href="/availability-management/">Availability Management</a></li>
+                                            <li><a href="/facility-overview/">Facility Overview</a></li>
+                                            <li><a href="/erp-integration/">ERP Integrations</a></li>
+                                            <li><a href="/accounting/">Accounting</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-3">
-                                            <li><a href="contact.html">Client Portal</a></li>
-                                            <li><a href="reviews.html">Unit Management</a></li>
-                                            <li><a href="register.html">Tenant Management</a></li>
-                                            <li><a href="login.html">Payment Collection</a></li>
-                                            <li><a href="coming-soon.html">Issues</a></li>
-                                            <li><a href="forget-password.html">Field Service</a></li>
-                                            <li><a href="newsletter.html">Inspections & Audits</a></li>
+                                            <li><a href="/client-portal/">Client Portal</a></li>
+                                            <li><a href="/unit-management/">Unit Management</a></li>
+                                            <li><a href="/tenant-management/ ">Tenant Management</a></li>
+                                            <li><a href="/payment-collection/">Payment Collection</a></li>
+                                            <li><a href="/issues/">Issues</a></li>
+                                            <li><a href="/field-service/">Field Service</a></li>
+                                            <li><a href="/inspections-and-audits/">Inspections & Audits</a></li>
                                         </ul>
                                         <ul class="single-mega cn-col-3">
-                                            <li><a href="portfolio-standard.html">Property Maintenance</a></li>
-                                            <li><a href="portfolio-creative.html">Assets</a></li>
-                                            <li><a href="portfolio-full-width.html">Vendor Management</a></li>
-                                            <li><a href="portfolio-details-one.html">Inspections</a></li>
-                                            <li><a href="portfolio-details-two.html">Reports</a></li>
-                                            <li><a href="portfolio-details-three.html">Extensive Search</a></li>
-                                            <li><a href="portfolio-details-four.html">Compliance Management</a></li>
+                                            <li><a href="/property-maintenance/">Property Maintenance</a></li>
+                                            <li><a href="/assets/">Assets</a></li>
+                                            <li><a href="/vendor-management/">Vendor Management</a></li>
+                                            <li><a href="/inspection/">Inspections</a></li>
+                                            <li><a href="/reports/">Reports</a></li>
+                                            <li><a href="/extensive-search/">Extensive Search</a></li>
+                                            <li><a href="/compliance-management/">Compliance Management</a></li>
                                         </ul>
 
                                     </div>
                                 </li>
                                 <li><a href="#blog">Services</a>
                                     <ul class="dropdown">
-                                        <li><a href="portfolio-standard.html">Training</a></li>
-                                        <li><a href="portfolio-standard.html">Marketing & Consulting</a></li>
-                                        <li><a href="portfolio-creative.html">Vendor/Supplier Training</a></li>
-                                        <li><a href="portfolio-full-width.html">Support Services</a></li>
-                                        <li><a href="portfolio-details-one.html">Consulting service-standard</a></li>
+                                        <li><a href="/training/">Training</a></li>
+                                        <li><a href="/marketing-consulting/">Marketing & Consulting</a></li>
+                                        <li><a href="/vendor-supplier-training/">Vendor/Supplier Training</a></li>
+                                        <li><a href="/support-services/">Support Services</a></li>
+                                        <li><a href="/consulting-service-standards/ ‎">Consulting service-standard</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#blog">Industries</a>

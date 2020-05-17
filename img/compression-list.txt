@@ -1,7 +1,9 @@
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/1x/assets-small-20.jpg - Done
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/1x/maintenance-man.jpg - Done
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/1x/sales-20.jpg
+
 https://domitos.com/bitnami/images/corner-logo.png
+
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/insights.jpg 
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/control-tower.jpg 
 https://domitos.com/wp-content/themes/themeOne/img/bg-img/inspections.jpg
