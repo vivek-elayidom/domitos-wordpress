@@ -30,7 +30,7 @@
             <div class="classy-nav-container breakpoint-off">
                 <nav class="classy-navbar navbar2 justify-content-between" id="saasboxNav">
                     <!-- Logo-->
-                    <a class="nav-brand mr-5" href="/testsite/"><img src="<?php bloginfo('template_directory') ?>/img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand mr-5" href="/"><img src="<?php bloginfo('template_directory') ?>/img/core-img/logo.png" alt=""></a>
                     <!-- Navbar Toggler-->
                     <div class="classy-navbar-toggler"><span class="navbarToggler"><span></span><span></span><span></span><span></span></span>
                     </div>
