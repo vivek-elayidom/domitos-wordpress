@@ -119,7 +119,7 @@
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/control-tower.jpg" alt=""></div>
+                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/facility.jpg" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                             <div class="tab-pane fade" id="tab2" role="tabpanel" aria-labelledby="tab--2">
                                 <div class="row justify-content-between align-items-center">
                                     <div class="col-12 col-md-6">
-                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/asset-mgmt.jpg" alt=""></div>
+                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/assets.jpg" alt=""></div>
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="tab--text mt-5">
@@ -148,7 +148,7 @@
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/client-portal.jpg" alt=""></div>
+                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/tenant_and_clients.jpg" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/inspections.jpg" alt=""></div>
+                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/maintenance.jpg" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -175,7 +175,7 @@
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
-                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/insights.jpg" alt=""></div>
+                                        <div class="tab-thumb mt-5"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/insights.jpg" alt=""></div>
                                     </div>
                                 </div>
                             </div>
@@ -191,7 +191,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-12 col-md-6 col-lg-5">
                     <!-- Feature Section Image-->
-                    <div class="feature-side-img mb-50"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/corona2.jpg" alt=""></div>
+                    <div class="feature-side-img mb-50"><img src="<?php bloginfo('template_directory') ?>/img/landingpage/02_manage_covid_facilities.jpg" alt=""></div>
                 </div>
                 <div class="col-12 col-md-6">
                     <!-- Feature Content-->
@@ -570,20 +570,20 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-sm-8 col-md-6 col-lg-4">
                     <div class="card blog-card mb-5 wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1000ms">
-                        <a href="#"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/bg-img/blog1.jpg" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/landingpage/blog1.jpg" alt=""></a>
                         <div class="post-content p-4"><a class="d-block text-muted mb-2" href="#">Sep 15, 2020</a>
                             <a class="post-title d-block mb-2" href="blog-card.html">
                                 <h4>10 Ways to manage your Property Operations Teams during Virus Spreads</h4>
                             </a>
                             <p>10 Inspiring examples of Property Operation Teams coming together to fight the viral spread</p>
                             <div class="post-meta d-flex align-items-center justify-content-between">
-                                <a class="post-author" href="#"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/t1.png" alt=""></a><span class="text-muted">2 min read</span></div>
+                                <a class="post-author" href="#"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/t2.png" alt=""></a><span class="text-muted">2 min read</span></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-8 col-md-6 col-lg-4">
                     <div class="card blog-card mb-5 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1000ms">
-                        <div class="image-wrap"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/bg-img/blog2.jpg" alt="">
+                        <div class="image-wrap"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/landingpage/blog2.jpg" alt="">
                             <!-- Video--><span class="video-content"><a class="video-play-btn" href="https://www.youtube.com/watch?v=X_93H_60Pls"><i class="lni-play"></i></a></span>
                         </div>
                         <div class="post-content p-4"><a class="d-block text-muted mb-2" href="#">Sep 21, 2020</a>
@@ -592,13 +592,13 @@
                             </a>
                             <p>Practical tactics on how Property Management can respond to Covid-19</p>
                             <div class="post-meta d-flex align-items-center justify-content-between">
-                                <a class="post-author" href="#"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/t2.png" alt=""></a><span class="text-muted">7 min read</span></div>
+                                <a class="post-author" href="#"><img src="<?php bloginfo('template_directory') ?>/img/bg-img/t3.png" alt=""></a><span class="text-muted">7 min read</span></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-8 col-md-6 col-lg-4">
                     <div class="card blog-card mb-5 wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1000ms">
-                        <a href="#"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/bg-img/blog3.jpg" alt=""></a>
+                        <a href="#"><img class="card-img-top" src="<?php bloginfo('template_directory') ?>/img/landingpage/blog3.jpg" alt=""></a>
                         <div class="post-content p-4"><a class="d-block text-muted mb-2" href="#">Sep 29, 2020</a>
                             <a class="post-title d-block mb-2" href="blog-card.html">
                                 <h4>Data Data Everywhere!</h4>
