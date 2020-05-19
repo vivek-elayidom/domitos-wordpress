@@ -113,7 +113,7 @@
                                 </li>
                             </ul>
                             <!-- Login Button-->
-                            <div class="login-btn-area ml-4 mt-4 mt-lg-0"><a class="btn saasbox-btn btn-sm" href="#">Contact</a></div>
+                            <div class="login-btn-area ml-4 mt-4 mt-lg-0"><a class="btn saasbox-btn btn-sm" href="/contact-us/">Contact</a></div>
                         </div>
                     </div>
                 </nav>

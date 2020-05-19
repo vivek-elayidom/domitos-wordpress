@@ -624,7 +624,7 @@
                         <h4 class="text-white mb-0">Request a demo to see how Domitos can supercharge your Facility Team. </h4>
                     </div>
                 </div>
-                <div class="col-12 col-sm-4 text-sm-right"><a class="btn saasbox-btn white-btn" href="#">Request a Demo</a></div>
+                <div class="col-12 col-sm-4 text-sm-right"><a class="btn saasbox-btn white-btn" href="/contact-us/">Request a Demo</a></div>
             </div>
         </div>
     </section>
